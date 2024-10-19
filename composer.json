@@ -1,0 +1,20 @@
+{
+    "name": "leandroferreirama/markdown",
+    "description": "A simple HTML to Markdown converter.",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "LeandroFerreiraMa\\Markdown\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leandro Ferreira Marcelli",
+            "email": "suporte@integracaosistema.com.br"
+        }
+    ],
+    "license": "MIT"
+}
